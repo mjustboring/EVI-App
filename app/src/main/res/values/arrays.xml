@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="internship_entries">
+        <item>Select</item>
+        <item>Software Development</item>
+        <item>Full Stack Developer</item>
+        <item>Mean Stack Developer</item>
+        <item>Web Development</item>
+        <item>Data Science</item>
+        <item>IOT</item>
+        <item>App Developer</item>
+        <item>Cyber Security</item>
+        <item>HR</item>
+        <item>Process Associate</item>
+        <item>Content Writer</item>
+        <item>Digital Marketing</item>
+        <item>UI/UX Design</item>
+        <item>Business Development</item>
+        <item>Marketing</item>
+        <item>Tele Caller</item>
+        <item>Email Marketing</item>
+        <item>SMS Marketing</item>
+        <item>Photo/Videographer</item>
+        <item>Film Maker</item>
+        <item>Digital Content Creator</item>
+        <item>Social Media Promoter</item>
+    </string-array>
+
+    <string-array name="internship_duration_entries">
+        <item>Select</item>
+        <item>1 Week</item>
+        <item>1 Month</item>
+        <item>2 Months</item>
+        <item>3 Months</item>
+        <item>4 Months</item>
+        <item>5 Months</item>
+        <item>6 Months</item>
+    </string-array>
+
+    <string-array name="gender_entries">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

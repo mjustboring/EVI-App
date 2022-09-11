@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="card1">@color/black</color>
+    <color name="card2">@color/darkest</color>
+    <color name="card3">@color/darker</color>
+    <color name="card4">@color/dark</color>
+    <color name="card6">@color/light</color>
+    <color name="card7">@color/lighter</color>
+    <color name="card8">@color/lightest</color>
+    <color name="card9">@color/white</color>
+
+</resources>

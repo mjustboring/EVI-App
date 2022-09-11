@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367993441897",
+    "firebase_url": "https://exposys-virtual-internship-default-rtdb.firebaseio.com",
+    "project_id": "exposys-virtual-internship",
+    "storage_bucket": "exposys-virtual-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367993441897:android:c3d5e90c6d8e933ab81cf8",
+        "android_client_info": {
+          "package_name": "com.spmaurya.exposys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367993441897-pnoldg098p8gs50muags3vk4b8ugf7gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spmaurya.exposys",
+            "certificate_hash": "56b27e84ee911d9b90f7e620bfc973790e417a2b"
+          }
+        },
+        {
+          "client_id": "367993441897-o1jrtsmaua8c3nau81r78actiuro30mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwONXQN5LsLvS2NgzOxgHPX_RetxG1ukI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367993441897-o1jrtsmaua8c3nau81r78actiuro30mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

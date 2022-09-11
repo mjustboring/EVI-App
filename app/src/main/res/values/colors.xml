@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="orange">#FF8000</color>
+    <color name="blue">#039BE5</color>
+
+    <color name="black">#FF000000</color>
+    <color name="darkest">#202020</color>
+    <color name="darker">#404040</color>
+    <color name="dark">#606060</color>
+    <color name="dark_light">#808080</color>
+    <color name="light">#A0A0A0</color>
+    <color name="lighter">#C0C0C0</color>
+    <color name="lightest">#E0E0E0</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="card1">@color/white</color>
+    <color name="card2">@color/lightest</color>
+    <color name="card3">@color/lighter</color>
+    <color name="card4">@color/light</color>
+    <color name="card5">@color/dark_light</color>
+    <color name="card6">@color/dark</color>
+    <color name="card7">@color/darker</color>
+    <color name="card8">@color/darkest</color>
+    <color name="card9">@color/black</color>
+    <color name="green">#00FF00</color>
+    <color name="dark_orange">#FF5000</color>
+
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/otp_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/card2"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/otp_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/stilu_semi_bold"
+        android:text="Verification"
+        android:textColor="@color/orange"
+        android:textSize="24sp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/otp_heading_a"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/otp_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/stilu_semi_bold"
+        android:text="@string/otp_heading_text_a"
+        android:textColor="@color/card6"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:id="@+id/otp_heading_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/otp_heading_a"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/stilu_semi_bold"
+            android:text="@string/otp_heading_text_b"
+            android:textColor="@color/card6"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/otp_heading_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/stilu_semi_bold"
+            android:textColor="@color/card6"
+            android:textSize="16sp"
+            tools:text="+918171XXXX15"/>
+
+    </LinearLayout>
+
+    <in.aabhasjindal.otptextview.OtpTextView
+        android:id="@+id/otp_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/otp_heading_b"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/orange"
+        app:bar_active_color="@color/green"
+        app:bar_enabled="true"
+        app:bar_error_color="@color/red"
+        app:bar_height="2dp"
+        app:bar_inactive_color="@color/card4"
+        app:height="40dp"
+        app:length="6"
+        app:width="40dp" />
+
+    <TextView
+        android:id="@+id/otp_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/otp_view"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="16dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="@android:string/cancel"
+        android:textColor="@color/link_text_color"
+        android:textSize="21sp" />
+
+    <ProgressBar
+        android:id="@+id/otp_progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_centerInParent="true" />
+
+</RelativeLayout>

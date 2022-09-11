@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">EVI</string>
+    <string name="app_name_full">Exposys Virtual Internship</string>
+    <string name="logo_text_a">EXPOSYS</string>
+    <string name="logo_text_b">DATA LABS</string>
+    <string name="tag_line_text">Imagination Behind Technology™</string>
+    <string name="company_name">Exposys Data Labs</string>
+    <string name="login_text">Login</string>
+    <string name="reset_find_me_text">Find Me</string>
+    <string name="reset_not_me_text">Not Me</string>
+    <string name="reset_next_text">Next</string>
+    <string name="website_link_text">Website</string>
+    <string name="contact_link_text">Contact</string>
+    <string name="about_link_text">About</string>
+    <string name="contact_address_text">P.M R. Residency,\nGround Floor, No–5/3 Sy. No.10/6–1,\nOpp Nithyotsava Wedding Hall,\nDoddaballapur Main Road, Singanayakanahalli,\nYelahanka, Bengaluru, Karnataka 560064</string>
+    <string name="contact_phone_text">+917795207065</string>
+    <string name="contact_email_text">hr@exposysdata.com</string>
+    <string name="contact_map_button_text">Show in Maps</string>
+    <string name="about_text_a">We are based in Bengaluru India</string>
+    <string name="about_text_b">Exposys Data Labs aims to Solve real world business problems like Automation, Big Data and data Science. our core team of experts in various technologies help businesses to identify issues, opportunities and prototype solutions using trending technologies like AI, ML, Deep Learning and Data Science. we follow a human-focussed and not technology driven approach to achieve success in our clients endeavours.</string>
+    <string name="about_text_c">“Our discoveries are beyond belief and if you’re with us, you’ll discover a newer way to think!”</string>
+    <string name="about_text_d">To Tap and train best brainpower to give solutions for real challenges of the world.</string>
+
+    <string name="reg_banner_text_a">We\'re Building A Platform For You To</string>
+    <string name="reg_banner_text_b">Experience</string>
+    <string name="reg_banner_text_c">,\u0020</string>
+    <string name="reg_banner_text_d">Explore\u0020</string>
+    <string name="reg_banner_text_e">And\u0020</string>
+    <string name="reg_banner_text_f">Evolve</string>
+
+    <string name="login_heading_text">Login</string>
+    <string name="having_trouble_text">Having Trouble ?</string>
+    <string name="register_text">Haven\'t Registered ?</string>
+    <string name="name_title">Name</string>
+    <string name="first_name_hint_text">First Name</string>
+    <string name="last_name_hint_text">Last Name</string>
+    <string name="gender_title">Gender</string>
+    <string name="contact_title">Contact</string>
+    <string name="authentication_title">Authentication</string>
+    <string name="branch_hint_text">Course / Branch</string>
+    <string name="college_hint_text">College / University</string>
+    <string name="phone_hint_text">Phone</string>
+    <string name="email_hint_text">Email</string>
+    <string name="password_hint_text">Password</string>
+    <string name="confirm_password_hint_text">Confirm Password</string>
+    <string name="new_password_hint_text">New Password</string>
+    <string name="confirm_new_password_hint_text">Confirm New Password</string>
+    <string name="_10th_hint_text">10ᵗʰ (%)</string>
+    <string name="_12th_hint_text">12ᵗʰ (%)</string>
+    <string name="ug_hint_text">Under Graduation (%)</string>
+    <string name="pg_hint_text">Post Graduation (%)</string>
+    <string name="education_title">Education</string>
+    <string name="location_hint_text">Location</string>
+    <string name="internship_title">Internship</string>
+    <string name="internship_duration_title">Internship Duration</string>
+    <string name="submit_button_text">SUBMIT</string>
+    <string name="logout_button_text">LOGOUT</string>
+    <string name="reset_button_text">RESET</string>
+    <string name="study_title">Study</string>
+    <string name="otp_heading_text_a">Please enter the verification code</string>
+    <string name="otp_heading_text_b">sent to\u0020</string>
+    <string name="dash_banner">Dashboard</string>
+    <string name="ug_percentage">UG (%)</string>
+    <string name="pg_percentage">PG (%)</string>
+    <string name="opt_for">Opt for</string>
+    <string name="internship_duration_text">Duration</string>
+
+</resources>
